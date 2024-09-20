@@ -106,3 +106,50 @@ __________
 ## UML-диаграмма классов
 Изображение в svg формате хранится в репозитории
 ![uml](docs/img/png/UML.png)
+
+## Экраны
+
+### Главная
+![uml](docs/views/home.png)
+
+
+### Логин
+![uml](docs/views/login.png)
+
+### Регистрация
+![uml](docs/views/register.png)
+
+### Профиль
+![uml](docs/views/profile.png)
+
+### Профиль.Абонементы
+![uml](docs/views/profile_memberships.png)
+
+### Профиль.Тренировки
+![uml](docs/views/profile_trainings.png)
+
+
+### Залы.Экипировка
+![uml](docs/views/gyms_equipment.png)
+
+### Залы.Абонементы
+![uml](docs/views/gyms_memberships.png)
+
+### Залы.Абонементы.Покупка
+![uml](docs/views/gyms_memberships_by.png)
+
+### Оплата
+![uml](docs/views/youkassa.png)
+
+
+### Залы.Тренеры
+![uml](docs/views/gyms_trainers.png)
+
+
+### Залы.Тренеры.Тренеровки
+![uml](docs/views/trainings.png)
+
+
+### Залы.Тренеры.Тренировка.Запись
+![uml](docs/views/training_signup.png)
+
